@@ -6,5 +6,3 @@ I used TensorFlow to build up a deep learning model, FTR-Net, that can classify 
 
 
 *More complete codes will be uploaded later.
-
-*Copyright reserved.
